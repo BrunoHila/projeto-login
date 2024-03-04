@@ -8,6 +8,7 @@
   
   section#login {
     width: 80vw;
+    height: 310px;
   }
 
   section#login div#imagem {
@@ -32,20 +33,21 @@
   body{
     background-image: linear-gradient(to top,#faab99, #f2c7db);
   }
-  
+
   
   section#login {
     width: 950px;
+    height: 360px;
   }
 
-  section#login div#imagem {
+   section#login  {
     float: right;
     width: 50%;
-    height: 100%;
+    height: 80%;
   }
 
   section#login section#formu {
-    float: right;
+    float: none;
     width: 50%;
   }
   
